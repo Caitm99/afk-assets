@@ -10,4 +10,4 @@ public web address, so these three files live in this public repo.
 | `ambush-tile.png` | AMBUSH game tile (512×512) |
 
 Only images live here: no code, tokens or data. The AFK app reads them from
-`AFK_ASSET_BASE_URL`, e.g. `https://raw.githubusercontent.com/<owner>/<repo>/main`.
+`AFK_ASSET_BASE_URL`, `https://raw.githubusercontent.com/Caitm99/afk-assets/main`.
